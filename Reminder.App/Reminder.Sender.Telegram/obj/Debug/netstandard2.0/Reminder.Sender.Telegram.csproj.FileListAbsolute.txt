@@ -1,0 +1,12 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\bin\Debug\netstandard2.0\Reminder.Sender.Telegram.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\bin\Debug\netstandard2.0\Reminder.Sender.Telegram.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\bin\Debug\netstandard2.0\Reminder.Sender.Telegram.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\bin\Debug\netstandard2.0\Reminder.Sender.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\bin\Debug\netstandard2.0\Reminder.Sender.Core.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.csproj.CopyComplete
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Telegram\obj\Debug\netstandard2.0\Reminder.Sender.Telegram.pdb

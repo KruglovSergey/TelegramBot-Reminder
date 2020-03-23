@@ -1,0 +1,9 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\bin\Debug\netstandard2.0\Reminder.Sender.Core.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\bin\Debug\netstandard2.0\Reminder.Sender.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\bin\Debug\netstandard2.0\Reminder.Sender.Core.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Sender.Core\obj\Debug\netstandard2.0\Reminder.Sender.Core.pdb

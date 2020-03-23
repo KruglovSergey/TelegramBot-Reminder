@@ -1,0 +1,9 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\bin\Debug\netstandard2.0\Reminder.Parsing.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\bin\Debug\netstandard2.0\Reminder.Parsing.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\bin\Debug\netstandard2.0\Reminder.Parsing.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.App\Reminder.Parsing\obj\Debug\netstandard2.0\Reminder.Parsing.pdb

@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core.Tests\\Reminder.Storage.Core.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core.Tests\\Reminder.Storage.Core.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core.Tests\\Reminder.Storage.Core.Tests.csproj",
+        "projectName": "Reminder.Storage.Core.Tests",
+        "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core.Tests\\Reminder.Storage.Core.Tests.csproj",
+        "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj": {
+                "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj",
+        "projectName": "Reminder.Storage.Core",
+        "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj",
+        "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\MyLessons\\tochange\\36\\Final\\Reminder.Storage\\Reminder.Storage.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

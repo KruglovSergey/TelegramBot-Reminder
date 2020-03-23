@@ -1,0 +1,9 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.pdb

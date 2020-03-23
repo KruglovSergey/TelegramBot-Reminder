@@ -1,0 +1,14 @@
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.deps.json
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.WebApi.Core.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.Core.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\bin\Debug\netstandard2.0\Reminder.Storage.WebApi.Core.pdb
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.csproj.CopyComplete
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.dll
+C:\Users\vislobokov.adm\Documents\MyLessons\tochange\36\Final\Reminder.Storage\Reminder.Storage.WebApi.Client\obj\Debug\netstandard2.0\Reminder.Storage.WebApi.Client.pdb
